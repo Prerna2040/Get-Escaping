@@ -6,9 +6,6 @@ Website name : GetEscaping
 
 Requirement: HTML, CSS, Javascript
 
-
-Group members: Srushti S, Prerna S, Utsav K, Mayur K.
-
 To see the website in action, please go to :  https://project1a1b.github.io/GetEscaping/
 
 Features of this website:
